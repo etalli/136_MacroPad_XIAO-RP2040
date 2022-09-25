@@ -14,7 +14,7 @@
       - [code.py](#codepy)
       - [Issue: Recognized as USB Drive every time](#issue-recognized-as-usb-drive-every-time)
       - [Solution: Make USB Driver Mount optional](#solution-make-usb-driver-mount-optional)
-    - [qmk firmware](#qmk-firmware)
+    - [QMK: qmk firmware](#qmk-qmk-firmware)
     - [Notes](#notes)
   - [References](#references)
 
@@ -153,7 +153,7 @@ else:
 This will make it work.
 
 
-### qmk firmware
+### QMK: qmk firmware
 
 An example implementation with qmk firmware is shown below. The corresponding version is QMK Firmware 0.17.7.
 Since there are enough pins for the number of microcontrollers on the PCB, we do not use a matrix array with diodes, but connect directly to the pins of the microcontrollers. The implementation is shown below.
