@@ -32,6 +32,10 @@ More details.
 - Therefore, I made it possible to operate only as a USB Keyboard without enabling the USB Mass Storage function in the switch state.  For more details on the technology, click here.
 [https://learn.adafruit.com/circuitpython-essentials/circuitpython-storage]
 - In addtition, an implementation in the widely used qmk firmware is also shown.  QMK is now compatible with RP2040 in August 2022, and I have confirmed that it works with qmk.
+![picture 2](images/d46cc471b28b28d68d288422275c2bbe9912f915ede1e4ce8a7c13a9a0c5fadf.png)  
+
+
+![picture 1](images/3a762db2cf03807563ae24997bf9dca7588c75ba12669951323b3201063cd018.png)  
 
 ## Hardware
 
