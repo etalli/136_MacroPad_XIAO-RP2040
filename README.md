@@ -51,7 +51,7 @@ Comparison table between Pro Micro and XIAO RP2040
 | --- | --- | --- |
 | Connector | Micro-USB | USB-C |
 | MPU | ATMega 32U4（5V/16 MHz）| Dual Core Arm Cortex-M0+ Processor 133 MHz |
-| Storage capacity | 2.5K Bytes SRAM, 32K Bytes Flash | 264 KB SRAM、2MB Onboard Flash memory |
+| Storage capacity | 2.5K Bytes SRAM, 32K Bytes Flash memory | 264 KB SRAM、2MB Onboard Flash memory |
 | Pin | 12 digital + 9 analog | 11 digital, 4 analog |
 | Size | 3.30 x 1.78cm | 20 x 17.5 x 3.5 mm |
 | Features| | reset switch and user LED are available |
