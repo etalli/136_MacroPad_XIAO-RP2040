@@ -10,6 +10,7 @@
     - [Pintout](#pintout)
     - [PCB](#pcb)
     - [Top Plate](#top-plate)
+    - [Accessibility Extention](#accessibility-extention)
   - [Software](#software)
       - [code.py](#codepy)
       - [Issue: Recognized as USB Drive every time](#issue-recognized-as-usb-drive-every-time)
@@ -31,16 +32,14 @@ More details.
 - However, if the RP2040 is recognized as a USB drive every time, it may cause problems such as changing the configuration file by mistake or displaying a warning message in the case of MacOS.
 - Therefore, I made it possible to operate only as a USB Keyboard without enabling the USB Mass Storage function in the switch state.  For more details on the technology, click here.
 [https://learn.adafruit.com/circuitpython-essentials/circuitpython-storage]
-- In addtition, an implementation in the widely used qmk firmware is also shown.  QMK is now compatible with RP2040 in August 2022, and I have confirmed that it works with qmk.
+- In addtition, an implementation in the widely used qmk firmware is also shown.  QMK is now compatible with RP2040 in August 2022, and I have confirmed that it works with qmk firmware.
+  
 ![picture 2](images/d46cc471b28b28d68d288422275c2bbe9912f915ede1e4ce8a7c13a9a0c5fadf.png)  
 
-
-![picture 1](images/3a762db2cf03807563ae24997bf9dca7588c75ba12669951323b3201063cd018.png)  
 
 ## Hardware
 
 The RP2040 is used as the microcontroller. The Pro Micro and Teensy microcontrollers in general use do not have a Type-C USB connector and are not robust. In addition, the size of the Flash memory is small, and when adding functions to a program, it may not be able to hold the program.
-
 
 ### RP2040
 
@@ -82,6 +81,13 @@ Each of these switches is implemented using a socket for the switch, and current
 ### Top Plate
 
 Cherry MX Switch can be used as it is, but some thinner Choc Switch may not fit in the switch due to its small size. In such a case, you can widen the size of the switch by filing it slightly in the horizontal direction.
+
+### Accessibility Extention
+
+Here is an example to add extra push switch.  You can push the button when you are just relaxed...
+
+![picture 3](images/53234d831fb51f981f9c9425dec892a81a70c7a191426a847a1597f1092bcaed.png)  
+
 
 ## Software
 
