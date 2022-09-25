@@ -84,9 +84,9 @@ Cherry MX Switch can be used as it is, but some thinner Choc Switch may not fit 
 
 ### Accessibility Extention
 
-Here is an example to add extra push switch.  You can push the button when you are just relaxed...
+Here is an example to add an extra push switch.  You can just push the button when you are just relaxed...
 
-![picture 3](images/53234d831fb51f981f9c9425dec892a81a70c7a191426a847a1597f1092bcaed.png)  
+![picture 3](images/53234d831fb51f981f9c9425dec892a81a70c7a191426a847a1597f1092bcaed.png)
 
 
 ## Software
