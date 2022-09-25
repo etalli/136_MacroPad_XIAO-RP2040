@@ -254,5 +254,5 @@ In XAIO, the pin layout is different: D1 and D2 are not P1 and P2, respectively,
 
 - [1] Sparkfun [ProMicro](https://www.sparkfun.com/products/12640)
 - [2] Seeed [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html)
-- [3] QMK [QMK firmware](https://qmk.fm/)
+- [3] QMK [QMK Firmware](https://qmk.fm/)
   
