@@ -238,9 +238,7 @@ In XAIO, the pin layout is different: D1 and D2 are not P1 and P2, respectively,
 
 ![picture 2](images/a1809a59df64a4323ce7417beb7e27e124b8aec641dc88c9754ffad19c194211.png)  
 
-
-
 ## References
 
-- [1] ProMicro [https://www.sparkfun.com/products/12640]
-- [2] XIAO RP2040 [https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html]
+- [1] Sparkfun [ProMicro](https://www.sparkfun.com/products/12640)
+- [2] Seeed [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html)
