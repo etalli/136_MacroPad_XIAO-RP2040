@@ -34,6 +34,7 @@ More details.
 [https://learn.adafruit.com/circuitpython-essentials/circuitpython-storage]
 - In addtition, an implementation in the widely used qmk firmware is also shown.  QMK is now compatible with RP2040 in August 2022, and I have confirmed that it works with qmk firmware.
   
+Here is the build example.  The upper photo is built with Cherry MX switches and the bottom photo is built with low height choc switches.
 ![picture 2](images/d46cc471b28b28d68d288422275c2bbe9912f915ede1e4ce8a7c13a9a0c5fadf.png)  
 
 
