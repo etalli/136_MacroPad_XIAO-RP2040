@@ -21,7 +21,7 @@
 
 ## Overview
 
-If the Macro Pad has only a few keys, circuitpython is one of the easiest way to use because it does not require compile for execution and does not require building development environment for configuration changes. Since the microcontroller is recognized as a USB drive, you can change key assignments easily by editing with text editor. On the other hand, it is possible to disable recognition as a USB drive at startup, to avoid extra warning messages on the Mac.
+If the Macro Pad has only a few keys, circuitpython is one of the easiest way to use because it does not require compile for execution and does not require building development environment for configuration changes. Since the microcontroller is recognized as a USB drive, you can change key assignments easily by editing with your favorite text editor. On the other hand, it is possible to disable recognition as a USB drive at startup, to avoid extra warning messages on the Mac.
 For hardware, XIAO RP2040 is recommended to use because it is small footprint, low cost, and USB-C connector.  It is better than Pro Micro that is widely used in DIY keyboard community.
 
 This macro pad features a single 3.5mm TRRS compatible accessibility port. For example, it can accommodate any switch, including footswitches and emergency switches.
