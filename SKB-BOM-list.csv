@@ -1,0 +1,33 @@
+"Source:","/Users/k/Dropbox/MyProjects/136_MacroPad_XIAO_RP2040_circuitpython_qmk/PCB/SKB/SKB.kicad_sch"
+"Date:","Sunday, 06 November 2022 at 19:35:28"
+"Tool:","Eeschema (6.0.9-0)"
+"Generator:","/Applications/KiCad/KiCad.app/Contents/SharedSupport/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","12"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","H1","MountingHole","Mechanical:MountingHole","MountingHole:MountingHole_2.2mm_M2","~"
+"","","H2","MountingHole","Mechanical:MountingHole","MountingHole:MountingHole_2.2mm_M2","~"
+"","","H3","MountingHole","Mechanical:MountingHole","MountingHole:MountingHole_2.2mm_M2","~"
+"","","H4","MountingHole","Mechanical:MountingHole","MountingHole:MountingHole_2.2mm_M2","~"
+"","","J1","AudioJack4","Connector:AudioJack4","keyboard:MJ-4PP-9_1side","~"
+"","","J2","Conn_01x04_Female","Connector:Conn_01x04_Female","Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal","~"
+"","","SW1","SW_Push","Switch:SW_Push","footprint:CherryMX_MidHeight_Choc_Hotswap_rev5","~"
+"","","SW2","SW_Push","Switch:SW_Push","footprint:ResetSW","~"
+"","","SW3","SW_Push","Switch:SW_Push","footprint:CherryMX_MidHeight_Choc_Hotswap_rev5","~"
+"","","SW4","SW_Push","Switch:SW_Push","footprint:CherryMX_MidHeight_Choc_Hotswap_rev5","~"
+"","","SW5","SW_Push","Switch:SW_Push","footprint:CherryMX_MidHeight_Choc_Hotswap_rev5","~"
+"","","U1","SeeeduinoXIAO","Seeeduino XIAO:SeeeduinoXIAO","Seeeduino XIAO KICAD:Seeeduino XIAO-MOUDLE14P-2.54-21X17.8MM",""
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","4","H1, H2, H3, H4","MountingHole","Mechanical:MountingHole","MountingHole:MountingHole_2.2mm_M2","~"
+"2","1","J1","AudioJack4","Connector:AudioJack4","keyboard:MJ-4PP-9_1side","~"
+"3","1","J2","Conn_01x04_Female","Connector:Conn_01x04_Female","Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal","~"
+"4","4","SW1, SW3, SW4, SW5","SW_Push","Switch:SW_Push","footprint:CherryMX_MidHeight_Choc_Hotswap_rev5","~"
+"5","1","SW2","SW_Push","Switch:SW_Push","footprint:ResetSW","~"
+"6","1","U1","SeeeduinoXIAO","Seeeduino XIAO:SeeeduinoXIAO","Seeeduino XIAO KICAD:Seeeduino XIAO-MOUDLE14P-2.54-21X17.8MM",""
