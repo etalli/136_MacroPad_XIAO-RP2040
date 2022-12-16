@@ -16,6 +16,10 @@ $ qmk compile -kb my4pad -km default
 ```
 
 ## How to flash
+
+You must hold down the BOOT button and keep pressing the RESET button; the BOOT button is on the right when looking at the USB connector from the back. Therefore, you must hold down the right button and press the left button.
+
 ```
 $ qmk flash -kb my4pad -km default
 ```
+
